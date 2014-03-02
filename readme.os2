@@ -1,0 +1,27 @@
+This is the OS/2 port of ABCM2PS rel. 5.9.7, built with GCC 4.5.2.
+
+ABCM2PS, as you can read in the documentation, is a music typesetting program
+which reads a music description file written in ABC format and produces a
+postscript file ready to be transformed in PDF or printed directly to a
+PostScript- capable printer.
+
+Many resources are available on the Internet to use ABCm2PS.
+
+If you just want to use it, simply copy the contents of the os2\ subdirectory in
+a directory of choice. I suggest to copy all the files into a single directory, but
+maybe you will choose a different way.
+
+Remember that you will need the GCC 4.5.2 DLLs to make it work.
+
+Read carefully the documentation on how to use this program. And remember I can't
+give any warranty on how it will (or will not) work. Use this software at your own
+risk, for I didn't modify the source files - I simply rebuilt it.
+
+I would really like to read some feedback on my works, so if you are interested in
+this software please let me know! And don't forget to thank Paul Smedley and all the
+other software developers who are working very hard on OS/2 software.
+
+Have fun!
+Mentore Siesto
+Pisa, Italy
+mentore.siesto@alice.it
